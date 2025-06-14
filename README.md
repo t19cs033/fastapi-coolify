@@ -1,4 +1,5 @@
 # FastAPI + Coolify Deployment Guide
+<img width="741" alt="logo" src="https://github.com/user-attachments/assets/ee88457e-5886-4e88-8d17-8224442379cf" />
 
 This repository demonstrates how to deploy a FastAPI application using Coolify with minimal setup.
 
