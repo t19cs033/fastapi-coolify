@@ -4,11 +4,6 @@ This repository demonstrates how to deploy a FastAPI application using Coolify w
 
 ## Quick Start
 
-### Prerequisites
-- A Coolify instance running on your server
-- GitHub account
-- (Optional) Cloudflare account for tunnel setup
-
 ### Project Structure
 ```
 fastapi-coolify/
@@ -39,7 +34,7 @@ Access `fastapi.yourdomain.com` and you should see:
 {"message":"Hello World!","status":"success"}
 ```
 
-If this appears, your deployment was successful! 🎉
+If this appears, your deployment was successful.
 
 ## Using Cloudflare Tunnel (Recommended)
 
